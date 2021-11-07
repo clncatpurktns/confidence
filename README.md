@@ -1,0 +1,2 @@
+# confidence
+nfl confidence pool
